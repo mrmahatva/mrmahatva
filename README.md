@@ -2,6 +2,6 @@
 
 This is mrMahatve
 
-[website](https://milanvala.netlify.app/)
+[portfolio website](https://milanvala.netlify.app/)
 
 [Redix UI Template](https://redix-ui-templates.vercel.app/) 
